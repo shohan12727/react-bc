@@ -1,0 +1,15 @@
+.student{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    padding: 10px;
+    border: 2px solid tomato;
+}
+
+.welcome-message{
+    font-size: 2.5em;
+    background-color: azure;
+    color: black;
+    padding: 10px;
+    border: 3px solid aqua;
+    border-radius: 5px;
+}
